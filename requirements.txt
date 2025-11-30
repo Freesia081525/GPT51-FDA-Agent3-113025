@@ -1,0 +1,26 @@
+
+streamlit
+pyyaml
+altair
+
+# LLM SDKs
+openai
+google-generativeai
+anthropic
+xai_sdk
+
+# PDF / OCR toolchain
+PyPDF2
+pdfplumber
+pymupdf
+pytesseract
+pdf2image
+
+# Validation / data models
+pydantic
+
+# Graph / visualization
+graphviz
+
+# Misc
+requests
